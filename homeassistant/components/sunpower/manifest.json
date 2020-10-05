@@ -1,0 +1,12 @@
+{
+  "domain": "sunpower",
+  "name": "sunpower",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/sunpower",
+  "requirements": ["requests"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@krbaker"]
+}
